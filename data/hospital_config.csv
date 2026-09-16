@@ -1,0 +1,6 @@
+Department,Doctors,Slots_Per_Doctor,Daily_Capacity
+General Medicine,5,20,100
+Cardiology,3,15,45
+Orthopedics,4,15,60
+Pediatrics,3,18,54
+Dermatology,2,15,30

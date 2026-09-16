@@ -1,0 +1,290 @@
+Department,Doctor,Slot_Number,Appointment_Time
+General Medicine,Doctor 1,1,09:00 AM
+General Medicine,Doctor 1,2,09:30 AM
+General Medicine,Doctor 1,3,10:00 AM
+General Medicine,Doctor 1,4,10:30 AM
+General Medicine,Doctor 1,5,11:00 AM
+General Medicine,Doctor 1,6,11:30 AM
+General Medicine,Doctor 1,7,12:00 PM
+General Medicine,Doctor 1,8,12:30 PM
+General Medicine,Doctor 1,9,01:00 PM
+General Medicine,Doctor 1,10,01:30 PM
+General Medicine,Doctor 1,11,02:00 PM
+General Medicine,Doctor 1,12,02:30 PM
+General Medicine,Doctor 1,13,03:00 PM
+General Medicine,Doctor 1,14,03:30 PM
+General Medicine,Doctor 1,15,04:00 PM
+General Medicine,Doctor 1,16,04:30 PM
+General Medicine,Doctor 1,17,05:00 PM
+General Medicine,Doctor 1,18,05:30 PM
+General Medicine,Doctor 1,19,06:00 PM
+General Medicine,Doctor 1,20,06:30 PM
+General Medicine,Doctor 2,1,09:00 AM
+General Medicine,Doctor 2,2,09:30 AM
+General Medicine,Doctor 2,3,10:00 AM
+General Medicine,Doctor 2,4,10:30 AM
+General Medicine,Doctor 2,5,11:00 AM
+General Medicine,Doctor 2,6,11:30 AM
+General Medicine,Doctor 2,7,12:00 PM
+General Medicine,Doctor 2,8,12:30 PM
+General Medicine,Doctor 2,9,01:00 PM
+General Medicine,Doctor 2,10,01:30 PM
+General Medicine,Doctor 2,11,02:00 PM
+General Medicine,Doctor 2,12,02:30 PM
+General Medicine,Doctor 2,13,03:00 PM
+General Medicine,Doctor 2,14,03:30 PM
+General Medicine,Doctor 2,15,04:00 PM
+General Medicine,Doctor 2,16,04:30 PM
+General Medicine,Doctor 2,17,05:00 PM
+General Medicine,Doctor 2,18,05:30 PM
+General Medicine,Doctor 2,19,06:00 PM
+General Medicine,Doctor 2,20,06:30 PM
+General Medicine,Doctor 3,1,09:00 AM
+General Medicine,Doctor 3,2,09:30 AM
+General Medicine,Doctor 3,3,10:00 AM
+General Medicine,Doctor 3,4,10:30 AM
+General Medicine,Doctor 3,5,11:00 AM
+General Medicine,Doctor 3,6,11:30 AM
+General Medicine,Doctor 3,7,12:00 PM
+General Medicine,Doctor 3,8,12:30 PM
+General Medicine,Doctor 3,9,01:00 PM
+General Medicine,Doctor 3,10,01:30 PM
+General Medicine,Doctor 3,11,02:00 PM
+General Medicine,Doctor 3,12,02:30 PM
+General Medicine,Doctor 3,13,03:00 PM
+General Medicine,Doctor 3,14,03:30 PM
+General Medicine,Doctor 3,15,04:00 PM
+General Medicine,Doctor 3,16,04:30 PM
+General Medicine,Doctor 3,17,05:00 PM
+General Medicine,Doctor 3,18,05:30 PM
+General Medicine,Doctor 3,19,06:00 PM
+General Medicine,Doctor 3,20,06:30 PM
+General Medicine,Doctor 4,1,09:00 AM
+General Medicine,Doctor 4,2,09:30 AM
+General Medicine,Doctor 4,3,10:00 AM
+General Medicine,Doctor 4,4,10:30 AM
+General Medicine,Doctor 4,5,11:00 AM
+General Medicine,Doctor 4,6,11:30 AM
+General Medicine,Doctor 4,7,12:00 PM
+General Medicine,Doctor 4,8,12:30 PM
+General Medicine,Doctor 4,9,01:00 PM
+General Medicine,Doctor 4,10,01:30 PM
+General Medicine,Doctor 4,11,02:00 PM
+General Medicine,Doctor 4,12,02:30 PM
+General Medicine,Doctor 4,13,03:00 PM
+General Medicine,Doctor 4,14,03:30 PM
+General Medicine,Doctor 4,15,04:00 PM
+General Medicine,Doctor 4,16,04:30 PM
+General Medicine,Doctor 4,17,05:00 PM
+General Medicine,Doctor 4,18,05:30 PM
+General Medicine,Doctor 4,19,06:00 PM
+General Medicine,Doctor 4,20,06:30 PM
+General Medicine,Doctor 5,1,09:00 AM
+General Medicine,Doctor 5,2,09:30 AM
+General Medicine,Doctor 5,3,10:00 AM
+General Medicine,Doctor 5,4,10:30 AM
+General Medicine,Doctor 5,5,11:00 AM
+General Medicine,Doctor 5,6,11:30 AM
+General Medicine,Doctor 5,7,12:00 PM
+General Medicine,Doctor 5,8,12:30 PM
+General Medicine,Doctor 5,9,01:00 PM
+General Medicine,Doctor 5,10,01:30 PM
+General Medicine,Doctor 5,11,02:00 PM
+General Medicine,Doctor 5,12,02:30 PM
+General Medicine,Doctor 5,13,03:00 PM
+General Medicine,Doctor 5,14,03:30 PM
+General Medicine,Doctor 5,15,04:00 PM
+General Medicine,Doctor 5,16,04:30 PM
+General Medicine,Doctor 5,17,05:00 PM
+General Medicine,Doctor 5,18,05:30 PM
+General Medicine,Doctor 5,19,06:00 PM
+General Medicine,Doctor 5,20,06:30 PM
+Cardiology,Doctor 1,1,09:00 AM
+Cardiology,Doctor 1,2,09:30 AM
+Cardiology,Doctor 1,3,10:00 AM
+Cardiology,Doctor 1,4,10:30 AM
+Cardiology,Doctor 1,5,11:00 AM
+Cardiology,Doctor 1,6,11:30 AM
+Cardiology,Doctor 1,7,12:00 PM
+Cardiology,Doctor 1,8,12:30 PM
+Cardiology,Doctor 1,9,01:00 PM
+Cardiology,Doctor 1,10,01:30 PM
+Cardiology,Doctor 1,11,02:00 PM
+Cardiology,Doctor 1,12,02:30 PM
+Cardiology,Doctor 1,13,03:00 PM
+Cardiology,Doctor 1,14,03:30 PM
+Cardiology,Doctor 1,15,04:00 PM
+Cardiology,Doctor 2,1,09:00 AM
+Cardiology,Doctor 2,2,09:30 AM
+Cardiology,Doctor 2,3,10:00 AM
+Cardiology,Doctor 2,4,10:30 AM
+Cardiology,Doctor 2,5,11:00 AM
+Cardiology,Doctor 2,6,11:30 AM
+Cardiology,Doctor 2,7,12:00 PM
+Cardiology,Doctor 2,8,12:30 PM
+Cardiology,Doctor 2,9,01:00 PM
+Cardiology,Doctor 2,10,01:30 PM
+Cardiology,Doctor 2,11,02:00 PM
+Cardiology,Doctor 2,12,02:30 PM
+Cardiology,Doctor 2,13,03:00 PM
+Cardiology,Doctor 2,14,03:30 PM
+Cardiology,Doctor 2,15,04:00 PM
+Cardiology,Doctor 3,1,09:00 AM
+Cardiology,Doctor 3,2,09:30 AM
+Cardiology,Doctor 3,3,10:00 AM
+Cardiology,Doctor 3,4,10:30 AM
+Cardiology,Doctor 3,5,11:00 AM
+Cardiology,Doctor 3,6,11:30 AM
+Cardiology,Doctor 3,7,12:00 PM
+Cardiology,Doctor 3,8,12:30 PM
+Cardiology,Doctor 3,9,01:00 PM
+Cardiology,Doctor 3,10,01:30 PM
+Cardiology,Doctor 3,11,02:00 PM
+Cardiology,Doctor 3,12,02:30 PM
+Cardiology,Doctor 3,13,03:00 PM
+Cardiology,Doctor 3,14,03:30 PM
+Cardiology,Doctor 3,15,04:00 PM
+Orthopedics,Doctor 1,1,09:00 AM
+Orthopedics,Doctor 1,2,09:30 AM
+Orthopedics,Doctor 1,3,10:00 AM
+Orthopedics,Doctor 1,4,10:30 AM
+Orthopedics,Doctor 1,5,11:00 AM
+Orthopedics,Doctor 1,6,11:30 AM
+Orthopedics,Doctor 1,7,12:00 PM
+Orthopedics,Doctor 1,8,12:30 PM
+Orthopedics,Doctor 1,9,01:00 PM
+Orthopedics,Doctor 1,10,01:30 PM
+Orthopedics,Doctor 1,11,02:00 PM
+Orthopedics,Doctor 1,12,02:30 PM
+Orthopedics,Doctor 1,13,03:00 PM
+Orthopedics,Doctor 1,14,03:30 PM
+Orthopedics,Doctor 1,15,04:00 PM
+Orthopedics,Doctor 2,1,09:00 AM
+Orthopedics,Doctor 2,2,09:30 AM
+Orthopedics,Doctor 2,3,10:00 AM
+Orthopedics,Doctor 2,4,10:30 AM
+Orthopedics,Doctor 2,5,11:00 AM
+Orthopedics,Doctor 2,6,11:30 AM
+Orthopedics,Doctor 2,7,12:00 PM
+Orthopedics,Doctor 2,8,12:30 PM
+Orthopedics,Doctor 2,9,01:00 PM
+Orthopedics,Doctor 2,10,01:30 PM
+Orthopedics,Doctor 2,11,02:00 PM
+Orthopedics,Doctor 2,12,02:30 PM
+Orthopedics,Doctor 2,13,03:00 PM
+Orthopedics,Doctor 2,14,03:30 PM
+Orthopedics,Doctor 2,15,04:00 PM
+Orthopedics,Doctor 3,1,09:00 AM
+Orthopedics,Doctor 3,2,09:30 AM
+Orthopedics,Doctor 3,3,10:00 AM
+Orthopedics,Doctor 3,4,10:30 AM
+Orthopedics,Doctor 3,5,11:00 AM
+Orthopedics,Doctor 3,6,11:30 AM
+Orthopedics,Doctor 3,7,12:00 PM
+Orthopedics,Doctor 3,8,12:30 PM
+Orthopedics,Doctor 3,9,01:00 PM
+Orthopedics,Doctor 3,10,01:30 PM
+Orthopedics,Doctor 3,11,02:00 PM
+Orthopedics,Doctor 3,12,02:30 PM
+Orthopedics,Doctor 3,13,03:00 PM
+Orthopedics,Doctor 3,14,03:30 PM
+Orthopedics,Doctor 3,15,04:00 PM
+Orthopedics,Doctor 4,1,09:00 AM
+Orthopedics,Doctor 4,2,09:30 AM
+Orthopedics,Doctor 4,3,10:00 AM
+Orthopedics,Doctor 4,4,10:30 AM
+Orthopedics,Doctor 4,5,11:00 AM
+Orthopedics,Doctor 4,6,11:30 AM
+Orthopedics,Doctor 4,7,12:00 PM
+Orthopedics,Doctor 4,8,12:30 PM
+Orthopedics,Doctor 4,9,01:00 PM
+Orthopedics,Doctor 4,10,01:30 PM
+Orthopedics,Doctor 4,11,02:00 PM
+Orthopedics,Doctor 4,12,02:30 PM
+Orthopedics,Doctor 4,13,03:00 PM
+Orthopedics,Doctor 4,14,03:30 PM
+Orthopedics,Doctor 4,15,04:00 PM
+Pediatrics,Doctor 1,1,09:00 AM
+Pediatrics,Doctor 1,2,09:30 AM
+Pediatrics,Doctor 1,3,10:00 AM
+Pediatrics,Doctor 1,4,10:30 AM
+Pediatrics,Doctor 1,5,11:00 AM
+Pediatrics,Doctor 1,6,11:30 AM
+Pediatrics,Doctor 1,7,12:00 PM
+Pediatrics,Doctor 1,8,12:30 PM
+Pediatrics,Doctor 1,9,01:00 PM
+Pediatrics,Doctor 1,10,01:30 PM
+Pediatrics,Doctor 1,11,02:00 PM
+Pediatrics,Doctor 1,12,02:30 PM
+Pediatrics,Doctor 1,13,03:00 PM
+Pediatrics,Doctor 1,14,03:30 PM
+Pediatrics,Doctor 1,15,04:00 PM
+Pediatrics,Doctor 1,16,04:30 PM
+Pediatrics,Doctor 1,17,05:00 PM
+Pediatrics,Doctor 1,18,05:30 PM
+Pediatrics,Doctor 2,1,09:00 AM
+Pediatrics,Doctor 2,2,09:30 AM
+Pediatrics,Doctor 2,3,10:00 AM
+Pediatrics,Doctor 2,4,10:30 AM
+Pediatrics,Doctor 2,5,11:00 AM
+Pediatrics,Doctor 2,6,11:30 AM
+Pediatrics,Doctor 2,7,12:00 PM
+Pediatrics,Doctor 2,8,12:30 PM
+Pediatrics,Doctor 2,9,01:00 PM
+Pediatrics,Doctor 2,10,01:30 PM
+Pediatrics,Doctor 2,11,02:00 PM
+Pediatrics,Doctor 2,12,02:30 PM
+Pediatrics,Doctor 2,13,03:00 PM
+Pediatrics,Doctor 2,14,03:30 PM
+Pediatrics,Doctor 2,15,04:00 PM
+Pediatrics,Doctor 2,16,04:30 PM
+Pediatrics,Doctor 2,17,05:00 PM
+Pediatrics,Doctor 2,18,05:30 PM
+Pediatrics,Doctor 3,1,09:00 AM
+Pediatrics,Doctor 3,2,09:30 AM
+Pediatrics,Doctor 3,3,10:00 AM
+Pediatrics,Doctor 3,4,10:30 AM
+Pediatrics,Doctor 3,5,11:00 AM
+Pediatrics,Doctor 3,6,11:30 AM
+Pediatrics,Doctor 3,7,12:00 PM
+Pediatrics,Doctor 3,8,12:30 PM
+Pediatrics,Doctor 3,9,01:00 PM
+Pediatrics,Doctor 3,10,01:30 PM
+Pediatrics,Doctor 3,11,02:00 PM
+Pediatrics,Doctor 3,12,02:30 PM
+Pediatrics,Doctor 3,13,03:00 PM
+Pediatrics,Doctor 3,14,03:30 PM
+Pediatrics,Doctor 3,15,04:00 PM
+Pediatrics,Doctor 3,16,04:30 PM
+Pediatrics,Doctor 3,17,05:00 PM
+Pediatrics,Doctor 3,18,05:30 PM
+Dermatology,Doctor 1,1,09:00 AM
+Dermatology,Doctor 1,2,09:30 AM
+Dermatology,Doctor 1,3,10:00 AM
+Dermatology,Doctor 1,4,10:30 AM
+Dermatology,Doctor 1,5,11:00 AM
+Dermatology,Doctor 1,6,11:30 AM
+Dermatology,Doctor 1,7,12:00 PM
+Dermatology,Doctor 1,8,12:30 PM
+Dermatology,Doctor 1,9,01:00 PM
+Dermatology,Doctor 1,10,01:30 PM
+Dermatology,Doctor 1,11,02:00 PM
+Dermatology,Doctor 1,12,02:30 PM
+Dermatology,Doctor 1,13,03:00 PM
+Dermatology,Doctor 1,14,03:30 PM
+Dermatology,Doctor 1,15,04:00 PM
+Dermatology,Doctor 2,1,09:00 AM
+Dermatology,Doctor 2,2,09:30 AM
+Dermatology,Doctor 2,3,10:00 AM
+Dermatology,Doctor 2,4,10:30 AM
+Dermatology,Doctor 2,5,11:00 AM
+Dermatology,Doctor 2,6,11:30 AM
+Dermatology,Doctor 2,7,12:00 PM
+Dermatology,Doctor 2,8,12:30 PM
+Dermatology,Doctor 2,9,01:00 PM
+Dermatology,Doctor 2,10,01:30 PM
+Dermatology,Doctor 2,11,02:00 PM
+Dermatology,Doctor 2,12,02:30 PM
+Dermatology,Doctor 2,13,03:00 PM
+Dermatology,Doctor 2,14,03:30 PM
+Dermatology,Doctor 2,15,04:00 PM
